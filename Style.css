@@ -7,3 +7,12 @@ div {
     border-radius: 50px;
     padding-left: 20px;
 }
+
+div.aboutme {
+    background-color: orange;
+    width: 70%;
+    height: 300px;
+    border-radius: 50px;
+    margin: auto;
+    padding: 10px;
+}
